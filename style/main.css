@@ -102,32 +102,28 @@
         margin-top: 5px;
     }
 
-    /* Parent Container */
-
    
-   /* Child Text Container */
    .item div{
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    background: black;
-    color: white;
-    margin-bottom: 5px;
-    font-family: Arial, Helvetica, sans-serif;
-    opacity: 0;
-    visibility: hidden;
-    -webkit-transition: visibility 0s, opacity 0.5s linear; 
-    transition: visibility 0s, opacity 0.5s linear;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background: black;
+        color: white;
+        margin-bottom: 5px;
+        font-family: Arial, Helvetica, sans-serif;
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transition: visibility 0s, opacity 0.5s linear; 
+        transition: visibility 0s, opacity 0.5s linear;
    }
    
-   /* Hover on Parent Container */
    .item:hover{
-    cursor: pointer;
+        cursor: pointer;
    }
    
    .item:hover div{
-    width: 100%;
-    padding: 8px 15px;
-    visibility: visible;
-    opacity: 0.7; 
+        width: 100%;
+        padding: 8px 15px;
+        visibility: visible;
+        opacity: 0.7; 
    }
