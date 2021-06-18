@@ -21,6 +21,7 @@ Nas imagens dos filmes ao se passar o mouse sobre a imagem é apresentada a sino
 
 ### Codigo adicionado em main.css
 
+```css
    .item div{
         position: absolute;
         bottom: 0;
@@ -45,3 +46,4 @@ Nas imagens dos filmes ao se passar o mouse sobre a imagem é apresentada a sino
         visibility: visible;
         opacity: 0.7; 
    }
+```
