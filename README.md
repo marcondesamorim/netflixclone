@@ -11,7 +11,7 @@ Nas imagens dos filmes ao se passar o mouse sobre a imagem é apresentada a sino
 <a href="">                              **Link para o filme ou série em https://www.themoviedb.org **
 	<img class="box-filme" src="">   **Capa do filme ou série**
         <div>
-        	<h3>Título do filme ou série</h3>
+        	Título do filme ou série
                 Sinopse do filme ou série
         </div>
 </a>
