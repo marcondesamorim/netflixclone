@@ -6,7 +6,7 @@
 
 	Nas imagens dos filmes ao se passar o mouse sobre a imagem é apresentada a sinopse e ao se clicar é redirecionado para a página do filme em http://https://www.themoviedb.org/
 
-### Codigo modificado em index.html
+### Código modificado em index.html
 
 ```html
 <a href="">                              **Link para o filme ou série em https://www.themoviedb.org **
@@ -19,7 +19,7 @@
 ```
 
 
-### Codigo adicionado em main.css
+### Código adicionado em main.css
 
 ```css
    .item div{
