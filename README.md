@@ -8,6 +8,7 @@ Nas imagens dos filmes ao se passar o mouse sobre a imagem é apresentada a sino
 
 ### Codigo modificado em index.html
 
+```html
 <a href="">                              **Link para o filme ou série em https://www.themoviedb.org **
 	<img class="box-filme" src="">   **Capa do filme ou série**
         <div>
@@ -15,6 +16,7 @@ Nas imagens dos filmes ao se passar o mouse sobre a imagem é apresentada a sino
                 Sinopse do filme ou série
         </div>
 </a>
+```
 
 
 ### Codigo adicionado em main.css
